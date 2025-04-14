@@ -29,7 +29,7 @@ All categorical features are one-hot encoded.
 
 > 🎯 Use the interactive web app to test churn predictions based on input values.
 
-📍 **Live App**  
+📍 **Live-App**  
 🌐 [https://yourapp.streamlit.app](https://telco-churn-ml-app-m3veta6rrgkwmiqdgwekap.streamlit.app)
 
 ---

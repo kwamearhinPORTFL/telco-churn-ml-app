@@ -55,5 +55,8 @@ input_data = np.array([[tenure, monthly_charges, total_charges,
 # Prediction
 if st.button("Predict"):
     prediction = model.predict(input_data)[0]
-    result = "❌ Customer will churn" if prediction == 1 else "✅ Customer will stay"
-    st.success(f"Prediction: {result}")
+    result = "Yes" if prediction == 1 else "No"
+    st.success(f"Predicted Churn: {result}")
+
+    
+

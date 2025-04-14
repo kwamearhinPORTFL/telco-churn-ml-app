@@ -1,0 +1,58 @@
+# 📊 Telco Customer Churn Prediction App
+
+An interactive machine learning app that predicts whether a telecom customer is likely to churn based on their contract, payment method, tenure, and billing details.
+
+🚀 Built with:
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- Joblib
+
+## 🎯 Features
+
+- Interactive web app UI
+- Predict churn in real-time
+- Uses a trained Random Forest model
+- Visualizes key inputs like:
+  - Contract Type
+  - Internet Service
+  - Payment Method
+  - Tenure & Billing info
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://telco-churn-ml-app-m3veta6rrgkwmiqdgwekap.streamlit.app/)
+
+---
+
+## 🧠 Sample Inputs
+
+- 📆 Tenure (months): `0–72`
+- 💰 Monthly Charges: `0.00–150.00`
+- 🧾 Total Charges
+- 🔁 Contract Type: `Month-to-month`, `One year`, `Two year`
+- 🌐 Internet Service: `DSL`, `Fiber optic`, `No`
+- 💳 Payment Method: `Electronic check`, `Mailed check`, etc.
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 💡 Inspiration
+
+This project is part of my data science portfolio to demonstrate ML deployment with Streamlit.  
+Stay tuned for more updates and advanced features!
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ernest-arhin-a13a12270/)
+- 🌐 [GitHub](https://github.com/kwamearhinPORTFL)
+
+
